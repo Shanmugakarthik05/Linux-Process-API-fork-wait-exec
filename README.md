@@ -108,8 +108,7 @@ int main() {
 ~~~
 
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/e46208ed-9189-4727-9d73-894ff9557523)
-
+![alt text](image-2.png)
 
 # RESULT:
 The programs are executed successfully.
